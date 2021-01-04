@@ -46,7 +46,6 @@
     <Compile Include="Encrypter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Randomer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
